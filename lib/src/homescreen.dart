@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:vegdy/src/widgets/food_category.dart';
 import 'widgets/home_top_info.dart';
+import 'widgets/search_file.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
@@ -17,6 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
         children: <Widget>[
           HomeTopInfo(),
           FoodCategory(),
+          SearchField(),
         ],
       ),
     );
