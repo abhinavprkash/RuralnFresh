@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vegdy/src/app.dart';
-
+import 'package:vegdy/src/pages/sigin_page.dart';
 //Custom Widgets
 import '../widgets/order_card.dart';
 
@@ -146,10 +146,10 @@ class _OrderPageState extends State<OrderPage> {
             height: 20.0,
           ),
           GestureDetector(
-            /*onTap: () {
+            onTap: () {
               Navigator.of(context).push(MaterialPageRoute(
                   builder: (BuildContext context) => SignInPage()));
-            },*/
+            },
             child: Container(
               height: 50.0,
               decoration: BoxDecoration(
