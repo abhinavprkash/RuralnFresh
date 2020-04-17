@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vegdy/src/widgets/button.dart';
-import 'package:vegdy/src/pages/signup_page.dart';
+import 'package:ruralnfresh/src/widgets/button.dart';
+import 'package:ruralnfresh/src/pages/signup_page.dart';
 
 class SignInPage extends StatefulWidget {
   @override

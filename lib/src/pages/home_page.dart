@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vegdy/src/widgets/food_category.dart';
+import 'package:ruralnfresh/src/widgets/food_category.dart';
 import '../widgets/home_top_info.dart';
 import '../widgets/search_file.dart';
 import '../widgets/bought_foods.dart';

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096891328479",
+    "firebase_url": "https://rural-n-fresh.firebaseio.com",
+    "project_id": "rural-n-fresh",
+    "storage_bucket": "rural-n-fresh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096891328479:android:3f34b6f8b462532e1fc66a",
+        "android_client_info": {
+          "package_name": "com.example.ruralnfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096891328479-pv8kuqebad5ap1bgs1peuojumoohcchd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZsSh4QeCBQeSp-sc9VLU4-UMx3QPAUY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096891328479-pv8kuqebad5ap1bgs1peuojumoohcchd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

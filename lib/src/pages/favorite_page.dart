@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vegdy/src/widgets/small_button.dart';
+import 'package:ruralnfresh/src/widgets/small_button.dart';
 
 class FavoritePage extends StatefulWidget {
   @override

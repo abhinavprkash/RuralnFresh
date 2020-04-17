@@ -1,4 +1,4 @@
-package com.example.vegdy
+package com.example.ruralnfresh
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

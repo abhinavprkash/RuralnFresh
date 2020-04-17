@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vegdy/src/pages/sigin_page.dart';
+import 'package:ruralnfresh/src/pages/sigin_page.dart';
 
 class SignUpPage extends StatefulWidget {
   @override

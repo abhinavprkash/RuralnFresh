@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'food_card.dart';
-import 'package:vegdy/src/models/category_model.dart';
+import 'package:ruralnfresh/src/models/category_model.dart';
 
 import '../data/category_data.dart';
 
