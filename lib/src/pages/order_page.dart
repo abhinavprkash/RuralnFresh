@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:ruralnfresh/src/app.dart';
 import 'package:ruralnfresh/src/pages/sigin_page.dart';
 //Custom Widgets
 import '../widgets/order_card.dart';
